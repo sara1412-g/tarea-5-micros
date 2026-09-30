@@ -310,7 +310,7 @@ Usa Python 3.11 o 3.12. Las versiones más nuevas a veces no tienen el paquete p
 
 <div align="center">
 
-### 👤 Autor
+### 👤 sara garcia 
 
 **[Nombre del estudiante]**
 Universidad Militar Nueva Granada · Actividad 5
